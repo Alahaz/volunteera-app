@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077228695468",
+    "project_id": "volunteera-db",
+    "storage_bucket": "volunteera-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077228695468:android:485400335795433a4f5409",
+        "android_client_info": {
+          "package_name": "com.example.volunteera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077228695468-8sckqnsmisujt66n2vp8pklfgeo4opmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBci5VEXWYwus2WAtf2vB4xucqCFRfrwfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077228695468-8sckqnsmisujt66n2vp8pklfgeo4opmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
